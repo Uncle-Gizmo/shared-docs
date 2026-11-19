@@ -41,9 +41,19 @@ When either code sets, the PCM stops controlling the high-pressure pump and limi
 
 Having both a "circuit low" and a "circuit high" code on the same circuit often points to an intermittent connection, such as a connector, a pin or a chafed wire. Mazda's procedure checks those before replacing the pump.
 
+## Q&A
+
+**Tony:** Does this mean the high-pressure fuel pump needs changing?
+
+**Answer: not necessarily, at least not yet.**
+
+The pump is only one of the possible causes. Mazda's procedure has the garage check the wiring first: the plug on the high-pressure pump, the plug on the engine computer, and the wire between the two. Only if all of those test fine does the fix become a new high-pressure fuel pump. The faulty part, the spill valve solenoid, is built into the pump and can't be replaced on its own.
+
+The reason for the doubt is that the car has both a "circuit low" code (P0091) and a "circuit high" code (P0092) on the same circuit. A solenoid that had simply failed would normally give one steady fault. Faults in both directions are more typical of a poor or intermittent connection, such as a loose plug, a corroded pin or a chafed wire. That is cheaper to fix and doesn't depend on Mazda having a pump in stock.
+
 ## Questions for the garage
 
-- Have the pump connector, the PCM connector and the wire between them been checked and tested?
+- Have the pump connector, the PCM connector and the wire between them been checked and tested, and what did you find?
 - If the pump is needed, what is the exact Mazda part number? Note that it is the high-pressure fuel pump assembly, not a sensor.
 
 ## Sources (Mazda service information)
